@@ -1,1 +1,1 @@
-git config pull.rebase
+git config pull.rebase false
